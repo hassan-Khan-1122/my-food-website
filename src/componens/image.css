@@ -1,0 +1,20 @@
+.btn button{
+    font-size: 40px;bottom: 50px;
+    position: absolute;
+    display: flex;
+    top: 10;
+    
+}
+.hassan {
+    font-size: 40px;
+    position: absolute;
+    top: 50%;
+    left : 20%;
+    color: white;
+    font-weight: 900;
+    font-weight: bolder;
+}
+
+.ahsan{
+    margin-left: 20px;
+}
